@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\USUARIO\OneDrive\Documents\edilim564win32\edilim564\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <corbanda>008080</corbanda>
+        <cornavega>808080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Construccion de figuras planas</titulo>
+          <autor>Dayana Lopez</autor>
+        <logo>..\..\..\Documents\edilim564win32\edilim564\Imagen34.png</logo>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\..\..\Documents\edilim564win32\edilim564\Captura de pantalla 2025-05-31 031619.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>1</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Selecciona la Respuesta correcta y lee con mucha atención:</cabeceira>
+              <imaxe>..\..\..\Documents\edilim564win32\edilim564\Captura de pantalla 2025-05-31 021709.png</imaxe>
+              <texto>Estás construyendo un triángulo. Si ya dibujaste dos de sus lados con longitudes de 6 cm y 10 cm, ¿cuál de las siguientes afirmaciones no puede ser verdadera sobre la longitud del tercer lado?</texto>
+              <resp texto="" valor="0">Es un número entero mayor que 4 cm.</resp>
+              <resp texto="" valor="0">Es la hipotenusa de un triángulo rectángulo.</resp>
+              <resp texto="" valor="1">Es exactamente 4 cm.</resp>
+              <resp texto="" valor="0">Es menor que 16 cm.</resp>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <cabeceira>Lee con atención la retroalimentación</cabeceira>
+              <imaxe posx="0" posy="0">..\..\..\Documents\edilim564win32\edilim564\Captura de pantalla 2025-05-31 022228.png</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Si trazas las diagonales de un cuadrilátero y observas que se intersecan en su punto medio, pero no son de la misma longitud, ¿qué tipo de figura has construido con certeza?</cabeceira>
+              <etiqueta imaxe="..\..\..\Documents\edilim564win32\edilim564\rectangulo.jpg" texto="Rectángulo">0</etiqueta>
+              <etiqueta imaxe="..\..\..\Documents\edilim564win32\edilim564\cuadrado.png" texto="Cuadrado">0</etiqueta>
+              <etiqueta imaxe="..\..\..\Documents\edilim564win32\edilim564\rombo.png" texto="Rombo ">0</etiqueta>
+              <etiqueta imaxe="..\..\..\Documents\edilim564win32\edilim564\paralelogramo.jpg" texto="Paralelogramo ">1</etiqueta>
+              <etiqueta imaxe="\" texto="Ninguna">0</etiqueta>
+              <etiqueta imaxe="..\..\..\Documents\edilim564win32\edilim564\images.png" texto="Triángulo">0</etiqueta>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <cabeceira>Lee la retroalimentación</cabeceira>
+              <imaxe posx="0" posy="0">..\..\..\Documents\edilim564win32\edilim564\Captura de pantalla 2025-05-31 023350.png</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Lee con atención y responde la pregunta:</cabeceira>
+              <imaxe>..\..\..\Documents\edilim564win32\edilim564\lovepik-reading-taking-notes-studying-boy-png-image_401713849_wh860-removebg-preview.png</imaxe>
+              <texto>Si se te pide construir una figura a partir de la instrucción "dibuja un punto central y luego todos los puntos equidistantes de él", ¿qué propiedad crucial de la figura resultante te permite saber que es un círculo y no otra forma?</texto>
+              <resp texto="" valor="1">Todos sus radios son iguales.</resp>
+              <resp texto="" valor="0">No tiene vértices ni lados.</resp>
+              <resp texto="" valor="0">Es una figura cerrada.</resp>
+              <resp texto="" valor="0">Su perímetro puede calcularse con Pi.</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <cabeceira>Lee la retroalimentación</cabeceira>
+              <imaxe posx="0" posy="0">..\..\..\Documents\edilim564win32\edilim564\Captura de pantalla 2025-05-31 023817.png</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Lee con mucha atención y responde:</cabeceira>
+              <imaxe>..\..\..\Documents\edilim564win32\edilim564\carpintero.png</imaxe>
+              <texto>Un carpintero necesita cortar una pieza de madera en forma de rombo. Solo tiene una regla y un compás. Si ya marcó los cuatro vértices, ¿cómo puede verificar que la figura es un rombo sin medir sus ángulos?</texto>
+              <resp texto="" valor="0">Asegurándose de que todas sus diagonales se bisecan mutuamente</resp>
+              <resp texto="" valor="0">Verificando que sus diagonales son de igual longitud</resp>
+              <resp texto="" valor="1">Midiendo que todos sus lados son de igual longitud</resp>
+              <resp texto="" valor="0">Asegurándose de que todas sus diagonales se bisecan mutuamente</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <cabeceira>Retroalimentación</cabeceira>
+              <imaxe posx="0" posy="0">..\..\..\Documents\edilim564win32\edilim564\Captura de pantalla 2025-05-31 024730.png</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Selecciona la respuesta correcta</cabeceira>
+              <imaxe>..\..\..\Documents\edilim564win32\edilim564\contruccion cuadrado.png</imaxe>
+              <texto>Te piden construir un cuadrado usando solo un compás y una regla no graduada. ¿Cuál de los siguientes pasos es indispensable para lograr la precisión requerida?</texto>
+              <resp texto="" valor="0">Asegurarse de que las diagonales se crucen en un ángulo de 45 grados</resp>
+              <resp texto="" valor="0">Marcar cuatro puntos que parezcan formar un cuadrado a simple vista</resp>
+              <resp texto="" valor="1">Construir al menos una línea perpendicular</resp>
+              <resp texto="" valor="0">Usar una tabla de referencia de longitudes</resp>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <cabeceira>Retroalimentación</cabeceira>
+              <imaxe posx="0" posy="0">..\..\..\Documents\edilim564win32\edilim564\Captura de pantalla 2025-05-31 025323.png</imaxe>
+        </paxina>
+        <paxina id="12" >
+              <tipo>5</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Imagina que eres un topógrafo y te han dado la tarea de delimitar una parcela de terreno de forma perfecta. Te informan que la parcela tiene cuatro lados iguales, y sus diagonales son perpendiculares entre sí, pero no necesariamente de la misma longitud. Tu misión es trazar esta parcela con precisión usando tus herramientas básicas: una cinta métrica (que funciona como regla graduada) y una cuerda (que funciona como compás para trazar arcos)Basándote en la descripción de la parcela, ¿qué figura geométrica plana representa este terreno?</cabeceira>
+              <imaxe>..\..\..\Documents\edilim564win32\edilim564\animated-space-fu6eyl0xafghub1h.jpg</imaxe>
+              <imfondo  posx="19" posy="6">..\..\..\Documents\edilim564win32\edilim564\rombo-removebg-preview.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>rombo</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\..\..\Documents\edilim564win32\edilim564\Captura de pantalla 2025-05-31 030633.png</imaxe>
+        </paxina>
+        <paxina id="14" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el siguiente rompecabezas</cabeceira>
+              <imaxe>..\..\..\Documents\edilim564win32\edilim564\figuras planas.jpg</imaxe>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\..\..\Documents\edilim564win32\edilim564\Captura de pantalla 2025-05-31 031412.png</imaxe>
+        </paxina>
+    </libro>
+</lim>
